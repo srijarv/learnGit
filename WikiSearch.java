@@ -30,7 +30,7 @@ public class WikiSearch {
 			}
 		}
 		
-//		
+		System.out.println("git");
 		
 		WebElement Element = driver.findElement(By.xpath("(//tr)[12]/child::td"));
 		//div[contains(text(),'Release date')]/
